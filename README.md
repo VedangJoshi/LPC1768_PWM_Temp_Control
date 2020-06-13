@@ -5,4 +5,4 @@ Using NXP LPC1768 for temperature control. PWM to change speed of a fan. Reading
 ![architecture](Embedded_FW_Project.png)
 
 ## Setup
-![setup] (setup.jpg)
+![setup](setup.jpg)
