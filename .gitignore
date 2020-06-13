@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 
+LPC1768/*
+
 # Compiled Object files
 *.slo
 *.lo
