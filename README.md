@@ -6,3 +6,6 @@ Using NXP LPC1768 for temperature control. PWM to change speed of a fan. Reading
 
 ## Setup
 ![setup](setup.jpg)
+
+### Fan curve table
+![fan curve table](FCT.png)
